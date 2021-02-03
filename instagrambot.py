@@ -2,8 +2,7 @@ import selenium
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
-CHROME_DRIVER_PATH = "C:/Users/ssshu/chromedriver_win32/chromedriver.exe"
-SIMILAR_ACCOUNT = "python.hub"
+CHROME_DRIVER_PATH = ""
 USERNAME = "*"
 PASSWORD = "*"
 tag = "programming"
